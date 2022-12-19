@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "build/core0/core0_image.hex"
+qc
+
+qc
